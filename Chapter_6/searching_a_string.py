@@ -1,0 +1,5 @@
+palabra=input('Enter a word:')
+#x=input('Enter a letter:')
+#print(x)
+position=palabra.find('a')
+print('position:',position)
