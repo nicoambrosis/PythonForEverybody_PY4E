@@ -1,6 +1,10 @@
 # PythonForEverybody_PY4E
 Python exersices I've when I was starting with python. PY4E from [Chuck Severance](https://www.youtube.com/watch?v=UjeNA_JtXME&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
 
+Here there some examples of what you will find inside this repository.
+
+Although these are very simple scripts, I am very proud of them because they remind me of when I was just starting this. 
+
 ---
 [ex_02_03.py](https://github.com/nicoambrosis/PythonForEverybody_PY4E/blob/main/Chapters_1_to_5/ex_02_03.py)
 ```python
