@@ -1,0 +1,14 @@
+\n es una funcion que se llama new line
+
+como abrir un archivo:
+    new_file:open(filenema,mode)
+
+  siempre hay que incluir la extension del archivo en el nombre. Ademas el archivo tiene que estar en la misma carpeta en donde estamos corriendo el programa.
+
+
+  'len' esta funcion permite contar el numero de caracteres que tiene una variable
+
+  x='hola'
+  len(x)
+  5
+lo que hay que tener en cuenta es que los new line (\n) tambien cuentan como caracteres

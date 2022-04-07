@@ -1,0 +1,35 @@
+Protocolo “QIAamp Mini” (QIAgen®) de extracción de DNA total 
+-adaptado para Bordetella pertussis-
+Última actualización: nico, Noviembre 2019.
+
+Muestra: Para aislamientos clínicos, largar cantidad suficiente para cubrir media placa de Regan Lowe. Incubar 96 h a 37ºC. Avanzar con el protocolo sólo en caso de obtener una abundante pátina de bacterias. Caso contrario, realizar un repique en media placa de BGA e incubar 24 h a 37.
+
+1.	Colocar 180 µL de agua bidestilada estéril en un tubo eppendorf de 1,5 mL y adicionar 20 µL de Proteinasa K (20 mg/mL).
+2.	Levantar la biomasa de bacterias y resuspender en la solución preparada anteriormente. Utilizar Vortex para lograr una resuspención total de la biomasa. 
+Para el éxito del protocolo es crítico utilizar biomasa proveniente de media placa de cultivo. 
+No utilizar el buffer ATL provisto por el kit. B. pertussis forma agregados indisolubles en este buffer.
+
+3.	Incubar durante 1 hora a 56 ºC. Ocasionalmente vortear la suspensión durante la incubación.
+4.	Centrifugar suavemente (spinn) para bajar las gotas que puedan haberse depositado sobre la tapa del tubo.
+5.	Adicionar 200 µL de buffer AL y 20 µL de solución P2 de miniprep. Mezclar con Vortex. 
+En el caso de B. pertussis la adición de solución P2 de miniprep es indispensable para lograr una buena lisis de las bacterias.
+6.	Incubar a 70 ºC durante 10 minutos. 
+Al final de esta etapa se debe notar una clarificación de la suspensión bacteriana que indica que la lisis fue exitosa.
+7.	Centrifugar suavemente (spinn) para eliminar las gotas que puedan haberse depositado sobre la tapa del tubo.
+8.	Adicionar 200 µL de etanol absoluto. Mezclar con Vortex. 
+La suspensión obtenida será notablemente viscosa. La utilización de Vortex en esta etapa no produce cortes ni degradación en el DNA más que los que se producen en otras etapas del protocolo.
+9.	Centrifugar suavemente (spinn) para bajar las gotas que puedan haberse depositado sobre la tapa del tubo.
+10.	Transferir la suspensión obtenida a una columna QIAamp Mini spin.
+11.	Centrifugar a 17.500 xg durante 1 minuto. Transferir la columna a un tubo de recolección nuevo. Descartar la solución filtrada.  
+Debido a la elevada viscosidad de la suspensión, centrifugaciones a menor velocidad no permiten traspasar la suspensión a través del filtro de la columna.
+12.	Adicionar 500 µL de buffer AW1. Centrifugar durante 1 minuto a 17.500 xg. Transferir la columna a un tubo de recolección nuevo. Descartar la solución filtrada.
+13.	Adicionar 500 µL de buffer AW2. Centrifugar durante 3 minutos a 17.500 xg.
+Recomendación: transferir la columna a un tubo de 1,5 mL (no provisto por el kit) y centrifugar durante 1 minuto a 17.500 xg para eliminar los restos de buffer.
+14.	Transferir la columna a un nuevo tubo de 1,5 mL (no provisto por el kit). Adicionar 100 µL de buffer AE. Incubar 5 minutos. Centrifugar a 17.500 xg durante 1 minuto.
+No es recomendable utilizar agua para recuperar el DNA ya que puede producirse hidrólisis y degradación del DNA.
+15.	Para incrementar la cantidad de DNA recuperado adicionar otros 100 µL de buffer AE.  Incubar 5 minutos. Centrifugar a 17.500 xg durante 1 minuto.
+
+
+Análisis del producto obtenido. A fin de determinar la cantidad y calidad del DNA obtenido se recomienda:
+1.	Utilizar Nanodrop para estimar la cantidad de DNA obtenido. Este protocolo suele dar rendimientos de 30-40 ng/µL y se obtienen valores bajos de Abs260/230 que indican la presencia de contaminantes que absorben a 230. 
+2.	Electroforesis en gel de agarosa. Sembrar 3 µL de la suspensión obtenida en un gel 8,0 % p/v y correr a 85 mV durante 30-60 minutos. Una buena extracción dará una banda bien definida de muy alto peso molecular y poca o nula degradación.  
